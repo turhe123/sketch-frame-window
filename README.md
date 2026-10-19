@@ -1,5 +1,7 @@
 # SketchFrameWindow
 
+**🌐 Website:** [turhe123.github.io/sketch-frame-window](https://turhe123.github.io/sketch-frame-window/)
+
 Press a hotkey, drag a freehand rectangle anywhere on screen, and your window fits that exact frame.
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
@@ -26,7 +28,13 @@ SketchFrameWindow is a free, open-source, 100% native, backend-free alternative 
 
 ## Screenshots
 
-_Screenshots coming soon._
+<p align="center"><img src="docs/screenshots/01-menu.png" alt="SketchFrameWindow menu bar dropdown" width="720"></p>
+
+<p align="center"><em>The menu bar dropdown: start Draw Frame with ⌘⇧Space, recall Recent Frames, open Settings, or support the project.</em></p>
+
+<p align="center"><img src="docs/screenshots/02-settings.png" alt="SketchFrameWindow Settings window" width="560"></p>
+
+<p align="center"><em>Settings let you rebind the hotkey, tune magnetic snapping and center-line guides, manage recent frames, launch at login, and check Accessibility access.</em></p>
 
 ## Install
 

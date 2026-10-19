@@ -1,0 +1,4 @@
+[
+  {"file":"01-menu.png","caption":"The menu bar dropdown: start Draw Frame with ⌘⇧Space, recall Recent Frames, open Settings, or support the project.","alt":"SketchFrameWindow menu bar dropdown"},
+  {"file":"02-settings.png","caption":"Settings let you rebind the hotkey, tune magnetic snapping and center-line guides, manage recent frames, launch at login, and check Accessibility access.","alt":"SketchFrameWindow Settings window"}
+]
